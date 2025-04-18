@@ -89,14 +89,6 @@ TIMES = [
     time(19, 0), time(19, 30), time(20, 0)
 ]
 
-
-TIMES = [
-    time(8, 0), time(9, 30), time(10, 45),
-    time(11, 30), time(12, 30), time(13, 30),
-    time(14, 10), time(14, 55), time(15, 45),
-    time(16, 30), time(17, 0), time(18, 0), time(19, 0)
-]
-
 TIMEZONE = pytz.timezone("Europe/Kyiv")
 
 client = TelegramClient(session_name, api_id, api_hash)
