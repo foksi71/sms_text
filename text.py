@@ -13,10 +13,11 @@ session_name = 'my_session'
 TARGET_GROUPS = [
     # '💸 ЗАВДАННЯ 💸',
     'PRchatUkraine12',
+    'piarr_chat_ukr',
     'doskaogolosh',
     'Ogoloshenya6996',
-    'PR_chat_Ukraine',
     'doshka_ua1',
+    # 'PR_chat_Ukraine',
 ]
 
 FORWARD_CHANNEL_ID = 2409928631 # або 4707019211  # Канал для пересилки відповідей (Завдання)
@@ -79,9 +80,10 @@ Telegram • Instagram • TikTok • Facebook • YouTube • Viber
 ]
 
 TIMES = [
-    time(8, 0), time(9, 30), time(11, 0),
-    time(12, 0), time(13, 30), time(15, 0),
-    time(17, 0), time(18, 0), time(19, 30)
+    time(8, 0), time(9, 30), time(10, 45),
+    time(11, 30), time(12, 30), time(13, 30),
+    time(14, 10), time(14, 55), time(15, 45),
+    time(16, 30), time(17, 0), time(18, 0), time(19, 0)
 ]
 
 TIMEZONE = pytz.timezone("Europe/Kyiv")
