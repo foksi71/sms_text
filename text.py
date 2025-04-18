@@ -82,10 +82,11 @@ Telegram • Instagram • TikTok • Facebook • YouTube • Viber
 TIMES = [
     time(8, 0), time(8, 45), time(9, 45),
     time(10, 15), time(11, 0), time(12, 0),
-    time(12, 30), time(13, 15), time(14, 15),
-    time(14, 45), time(15, 30), time(16, 30),
-    time(17, 0), time(17, 45), time(18, 45),
-    time(19, 15), time(20, 0)
+    time(12, 30), time(13, 15), time(13, 45),
+    time(14, 15), time(15, 0), time(15, 30),
+    time(16, 15), time(16, 45), time(17, 15),
+    time(17, 45), time(18, 15), time(18, 30), 
+    time(19, 0), time(19, 30), time(20, 0)
 ]
 
 
