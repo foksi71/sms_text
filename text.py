@@ -11,12 +11,14 @@ session_name = 'my_session'
 
 # ID груп, юзернейми
 TARGET_GROUPS = [
-    # '💸 ЗАВДАННЯ 💸',
-    'PRchatUkraine12',
-    'piarr_chat_ukr',
-    'doskaogolosh',
-    'Ogoloshenya6996',
-    'doshka_ua1',
+    '💸 ЗАВДАННЯ 💸',
+    'enotikk_06',
+    'Smm завдання EdgErnings',
+    # 'PRchatUkraine12',
+    # 'piarr_chat_ukr',
+    # 'doskaogolosh',
+    # 'Ogoloshenya6996',
+    # 'doshka_ua1',
     # 'PR_chat_Ukraine',
 ]
 
@@ -80,16 +82,17 @@ Telegram • Instagram • TikTok • Facebook • YouTube • Viber
 ]
 
 TIMES = [
-    time(8, 0), time(8, 45), time(9, 45),
-    time(10, 15), time(10, 45), time(11, 15),
-    time(11, 30), time(11, 45), time(12, 15),
-    time(12, 45), time(13, 15), time(13, 45),
-    time(14, 15), time(14, 45), time(15, 15),
-    time(15, 45), time(16, 15), time(16, 45),
-    time(17, 0), time(17, 15), time(17, 30), 
-    time(17, 45), time(18, 15), time(18, 30), 
-    time(18, 45), time(19, 15), time(19, 45),
-    time(20, 15), time(20, 45), time(21, 30)
+    time(11,37), time(11,45)
+    # time(8, 0), time(8, 45), time(9, 45),
+    # time(10, 15), time(10, 45), time(11, 15),
+    # time(11, 30), time(11, 45), time(12, 15),
+    # time(12, 45), time(13, 15), time(13, 45),
+    # time(14, 15), time(14, 45), time(15, 15),
+    # time(15, 45), time(16, 15), time(16, 45),
+    # time(17, 0), time(17, 15), time(17, 30), 
+    # time(17, 45), time(18, 15), time(18, 30), 
+    # time(18, 45), time(19, 15), time(19, 45),
+    # time(20, 15), time(20, 45), time(21, 30)
 ]
 
 TIMEZONE = pytz.timezone("Europe/Kyiv")
